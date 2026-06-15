@@ -1,6 +1,7 @@
-# Food Calorie Predictor
+# Food Cracker
 
-Food Calorie Predictor is a Machine Learning-powered web application that identifies food items from uploaded images and estimates their calorie content. The application uses a trained deep learning model to classify food images and provides users with an approximate calorie count for the predicted food item.
+
+Food Cracker is a Flask-based web application that predicts the food type and its calorie content from uploaded images.The app uses a deep learning model trained with a dataset of food images of 5 food items as of now.
 
 ---
 
