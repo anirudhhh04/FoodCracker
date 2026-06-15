@@ -20,7 +20,6 @@ Food Calorie Predictor is a Machine Learning-powered web application that identi
 
 * HTML
 * CSS
-* JavaScript
 
 ### Backend
 
