@@ -20,13 +20,7 @@ except Exception as e:
     model = None
 
 # Map food classes to calorie values
-calorie_map = {
-    'cup_cakes': 200,
-    'fried_rice': 350,
-    'omelette': 150,
-    'pizza': 285,
-    'waffles': 220
-}
+calorie_map = {'cup_cakes': 200,'fried_rice': 350,'omelette': 150,'pizza': 285,'waffles': 220 }
 
 @app.route('/')
 def index():
